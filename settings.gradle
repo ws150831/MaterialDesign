@@ -1,0 +1,1 @@
+include ':app', ':history', ':materialrefreshlayoutdemo', ':datedemo', ':tablayouttest', ':wushuaitest', ':mvpweather', ':intentdemo', ':wushuaimvplogindemo', ':javabasictest', ':observerdemotest', ':rxjavatest', ':retrofitdemo', ':mvplogindemo'

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesign.iml" filepath="$PROJECT_DIR$/MaterialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datedemo/datedemo.iml" filepath="$PROJECT_DIR$/datedemo/datedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/history/history.iml" filepath="$PROJECT_DIR$/history/history.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentdemo/intentdemo.iml" filepath="$PROJECT_DIR$/intentdemo/intentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javabasictest/javabasictest.iml" filepath="$PROJECT_DIR$/javabasictest/javabasictest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialrefreshlayoutdemo/materialrefreshlayoutdemo.iml" filepath="$PROJECT_DIR$/materialrefreshlayoutdemo/materialrefreshlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvplogindemo/mvplogindemo.iml" filepath="$PROJECT_DIR$/mvplogindemo/mvplogindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpweather/mvpweather.iml" filepath="$PROJECT_DIR$/mvpweather/mvpweather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observerdemotest/observerdemotest.iml" filepath="$PROJECT_DIR$/observerdemotest/observerdemotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" filepath="$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavatest/rxjavatest.iml" filepath="$PROJECT_DIR$/rxjavatest/rxjavatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayouttest/tablayouttest.iml" filepath="$PROJECT_DIR$/tablayouttest/tablayouttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wushuaimvplogindemo/wushuaimvplogindemo.iml" filepath="$PROJECT_DIR$/wushuaimvplogindemo/wushuaimvplogindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wushuaitest/wushuaitest.iml" filepath="$PROJECT_DIR$/wushuaitest/wushuaitest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+   android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/btn_requestBaidu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retrofit请求百度首页" />
+
+    <Button
+
+        android:id="@+id/btn_baiduKnow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retrofit请求百度知道" />
+    <Button
+
+        android:id="@+id/btn_getStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retrofit-get请求Status" />
+    <Button
+
+        android:id="@+id/btn_postStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retrofit-post请求Status" />
+    <Button
+
+        android:id="@+id/btn_getpackage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retrofit封装get请求" />
+    <Button
+
+        android:id="@+id/btn_postpackage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retrofit封装post请求" />
+</LinearLayout>
